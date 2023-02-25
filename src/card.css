@@ -1,0 +1,57 @@
+.box {
+    margin :23px;
+    border: groove;
+    padding: 17px;
+}
+
+.card-img-top{
+    background-color: rgb(232, 229, 229);
+    padding:14px;
+    margin:-17px;
+}
+.card-body{
+    margin:-11px;
+    border: 0cap;
+}
+
+.list-group-item{
+    margin:0px;
+    padding:10px;
+
+}
+
+.mail{
+    margin:10px;
+}
+
+.heart{
+    margin:30px;
+    padding:5px;
+}
+
+.heart:hover {
+  color: red;
+  
+}
+.function{
+    margin:25px;
+    padding:8px;
+   
+
+}
+.line{
+    margin: 10px;
+}
+.grid{
+    min-height: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+button{
+    margin:-2px;
+    padding:0px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+
